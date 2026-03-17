@@ -86,7 +86,7 @@ Step 5: Leaderboard and Rewards
 Students and schools compete through rankings and earn badges.
 
 Diagram:
-<img src=""
+<img src="https://github.com/iraiyaruldhanasingh-rgb/SIH-25009/blob/main/image.png">
 
 ## Feasibility and Viability
 Feasibility Analysis
