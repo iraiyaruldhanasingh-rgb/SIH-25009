@@ -85,6 +85,9 @@ Points are awarded for completed activities.
 Step 5: Leaderboard and Rewards
 Students and schools compete through rankings and earn badges.
 
+Diagram:
+<img src=""
+
 ## Feasibility and Viability
 Feasibility Analysis
 
